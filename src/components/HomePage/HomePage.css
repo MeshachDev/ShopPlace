@@ -458,6 +458,15 @@
     .footer-main-container{
         margin-top: 10vh;
     }
+      .product-btn{
+        min-width:50vw ;
+    }
+    .product-buynow , .product-cart{
+        font-size: 4vw;
+    }
+    .product-cart i{
+        font-size: 3vw;
+    }
 }
 
 @media screen and (max-width: 500px) {
