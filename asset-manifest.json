@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ShopPlace/static/css/main.e4792521.css",
+    "main.css": "/ShopPlace/static/css/main.70a2ec67.css",
     "main.js": "/ShopPlace/static/js/main.61ee5500.js",
     "static/js/563.3577274b.chunk.js": "/ShopPlace/static/js/563.3577274b.chunk.js",
     "static/media/bootstrap-icons.woff?": "/ShopPlace/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/ShopPlace/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/ShopPlace/index.html",
-    "main.e4792521.css.map": "/ShopPlace/static/css/main.e4792521.css.map",
+    "main.70a2ec67.css.map": "/ShopPlace/static/css/main.70a2ec67.css.map",
     "main.61ee5500.js.map": "/ShopPlace/static/js/main.61ee5500.js.map",
     "563.3577274b.chunk.js.map": "/ShopPlace/static/js/563.3577274b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4792521.css",
+    "static/css/main.70a2ec67.css",
     "static/js/main.61ee5500.js"
   ]
 }
